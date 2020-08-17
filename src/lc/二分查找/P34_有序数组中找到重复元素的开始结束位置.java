@@ -1,4 +1,4 @@
-package main;
+package lc.二分查找;
 
 /**
  * @author : zhengqiufeng

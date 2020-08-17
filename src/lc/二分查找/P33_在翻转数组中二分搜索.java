@@ -1,4 +1,4 @@
-package main;
+package lc.二分查找;
 
 /**
  * @author : zhengqiufeng
@@ -56,10 +56,5 @@ public class P33_在翻转数组中二分搜索 {
 			}
 		}
 		return l;
-	}
-
-	public static void main(String[] args) {
-		main.P33_在翻转数组中二分搜索 test = new main.P33_在翻转数组中二分搜索();
-		System.out.println(test.search(new int[]{-2}, -2));
 	}
 }
