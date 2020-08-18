@@ -1,4 +1,4 @@
-package main.排序.常见算法.已完成;
+package 经典算法.排序.已完成;
 
 import java.util.Arrays;
 
